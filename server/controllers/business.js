@@ -81,7 +81,7 @@ module.exports.processEditPage = (req, res, next) => {
 
     let updatedBusiness = Business({
         "_id": id,
-        "contactName": req.body.Cname,
+        "ContactName": req.body.Cname,
         "ContactNumber": req.body.Cnumber,
         "EmailAddress": req.body.email
     });
