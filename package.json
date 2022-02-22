@@ -1,0 +1,57 @@
+{
+  "name": "gokulrajvenugopal_comp229_assignment2",
+  "version": "0.0.1",
+  "private": true,
+  "description": "GokulrajVenugopal_COMP229_Assignment2",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "engines": {
+    "node": "^12.18.3",
+    "npm": "^6.0.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "bootstrap": "^4.5.2",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "express-session": "^1.17.2",
+    "http-errors": "~1.6.3",
+    "jquery": "^3.5.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.14",
+    "morgan": "~1.9.1",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^6.1.0",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "@types/connect-flash": "^0.0.35",
+    "@types/cors": "^2.8.7",
+    "@types/express": "^4.17.13",
+    "@types/express-session": "^1.17.4",
+    "@types/jsonwebtoken": "^8.5.0",
+    "@types/mongoose": "^5.11.97",
+    "@types/passport": "^1.0.7",
+    "@types/passport-jwt": "^3.0.3",
+    "@types/passport-local": "^1.0.34",
+    "@types/passport-local-mongoose": "^4.0.15"
+  },
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gokulrajv1304/GokulrajVenugopal_COMP229_Assignment2.git"
+  },
+  "author": "Gokulraj Venugopal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gokulrajv1304/GokulrajVenugopal_COMP229_Assignment2/issues"
+  },
+  "homepage": "https://github.com/Gokulrajv1304/GokulrajVenugopal_COMP229_Assignment2#readme"
+}
